@@ -4,17 +4,12 @@ A Claude Code skill for building native macOS/iOS applications with Apple's Liqu
 
 ## Installation
 
-Copy the `liquid-glass` folder to your project's `.claude/skills/` directory:
-
 ```bash
-# Clone and copy
 git clone https://github.com/giorgio-a11y/liquid-glass-skill.git /tmp/liquid-glass-skill
 mkdir -p .claude/skills
 cp -r /tmp/liquid-glass-skill/liquid-glass .claude/skills/
 rm -rf /tmp/liquid-glass-skill
 ```
-
-Or manually download and place the `liquid-glass/` folder in `.claude/skills/`.
 
 ## Structure
 
@@ -46,7 +41,6 @@ The skill activates when you ask Claude to:
 - Design Apple-style UI
 - Implement glass effects or materials
 
-## Looking for a Standalone Guide?
+## Standalone Guide
 
-If you just want to read the guidelines without Claude integration:
-**[liquid-glass-guide](https://github.com/giorgio-a11y/liquid-glass-guide)**
+Want to read the guidelines without Claude integration? See [liquid-glass-guide](https://github.com/giorgio-a11y/liquid-glass-guide)
