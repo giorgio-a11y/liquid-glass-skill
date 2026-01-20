@@ -1,6 +1,6 @@
 ---
 name: liquid-glass
-description: Build native macOS/iOS apps with Apple's Liquid Glass design language and Human Interface Guidelines. Use when creating SwiftUI interfaces, implementing translucent materials, designing cards/rows/badges, applying SF Symbols, following Apple HIG spacing/typography/color systems, or building any app that should feel native to Apple platforms. Triggers on requests for: macOS apps, iOS apps, SwiftUI UI, Apple-style design, glass effects, material backgrounds, native app design.
+description: "Build native macOS/iOS apps with Apple's Liquid Glass design language and Human Interface Guidelines. Use when creating SwiftUI interfaces, implementing translucent materials, designing cards/rows/badges, applying SF Symbols, following Apple HIG spacing/typography/color systems, or building any app that should feel native to Apple platforms. Triggers on macOS apps, iOS apps, SwiftUI UI, Apple-style design, glass effects, material backgrounds, native app design."
 ---
 
 # Liquid Glass Design
